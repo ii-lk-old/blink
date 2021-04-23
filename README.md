@@ -1,5 +1,3 @@
 # blink
-test repo
-eftp
-ZZtkpz
-ntf
+
+clear note here
